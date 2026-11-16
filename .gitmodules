@@ -1,0 +1,3 @@
+[submodule "Assets/BossBattle-PrivateAssets"]
+	path = Assets/BossBattle-PrivateAssets
+	url = https://github.com/TsukasaUrakawa/BossBattle-PrivateAssets.git
