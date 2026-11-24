@@ -193,6 +193,13 @@
       },
       "url": "https://packages.unity.com"
     },
+    "jp.lilxyzw.editortoolbox": {
+      "version": "https://github.com/lilxyzw/lilEditorToolbox.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "0982ddcfec2397dfac361a632f2bc860bd5df9f8"
+    },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,
